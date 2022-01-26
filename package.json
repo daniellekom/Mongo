@@ -1,0 +1,22 @@
+{
+  "name": "mongo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teamProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellekom/Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellekom/Mongo/issues"
+  },
+  "homepage": "https://github.com/daniellekom/Mongo#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
